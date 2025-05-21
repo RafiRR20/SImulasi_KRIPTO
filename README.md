@@ -1,1 +1,1 @@
-# SImulasi_KRIPTO
+# Aplikasi Simulasi Perdagangan Kripto Sederhana
